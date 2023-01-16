@@ -201,7 +201,7 @@ Name <b>: {}</b>
 
 Message <b>: {}</b>"""
 
-    CAPTION = """
+   CUSTOM_FILE_CAPTION = """
 <b>╭──[𝑹𝑹_𝒓𝒆𝑸]───⧐</b> 
 <b>│</b> 
 <b>├⍟ 🗂 𝐹𝑖𝑙𝑒 𝑵𝒂𝒎𝒆 : <code>«♡𝚁𝙷𝚈𝚃𝙷𝙼𝚁𝙾𝙲𝙺𝙴𝚁𝚉™♡»{file_name}</code>  </b> 
