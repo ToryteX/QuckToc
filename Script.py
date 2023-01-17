@@ -180,7 +180,7 @@ Request Again"""
 
 <u>𝗥𝗲𝗾𝘂𝗲𝘀𝘁𝘀 𝗙𝗼𝗿𝗺𝗮𝘁𝘀</u>
 
-•❖ Petta 2019
+❖ Petta 2019
 ❖ Mr & Mrs arjun 2021
 ❖ Gatta Kusthi 2022
 ❖ Padayappa 1999
