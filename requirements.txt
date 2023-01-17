@@ -8,5 +8,7 @@ requests
 bs4
 git+https://github.com/ritheshrkrm/cinemagoer
 datetime
+heroku3
+pynewtonmath
 pytz
 aiohttp
