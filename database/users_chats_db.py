@@ -115,7 +115,10 @@ class Database:
             'auto_delete': AUTO_DELETE,
             'auto_ffilter': AUTO_FFILTER,
             'max_btn': MAX_BTN,
-            'template': IMDB_TEMPLATE
+            'template': IMDB_TEMPLATE,
+            'shortlink': SHORTLINK_URL,
+            'shortlink_api': SHORTLINK_API,
+            'is_shortlink': IS_SHORTLINK
         }
         chat = await self.grp.find_one({'id':int(id)})
         if chat:
